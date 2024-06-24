@@ -12,3 +12,8 @@
 ・列と行を定義する水平線と垂直線の集合が交差したもの
 ・要素をグリッド上の行と列の中に配置することができる
 https://developer.mozilla.org/ja/docs/Web/CSS/CSS_grid_layout/Basic_concepts_of_grid_layout
+
+## つまづき（未解決）
+``` app.config.ts ```内のCSSが反映されない。
+``` <UButton>Button</UButton> ```は別途設定が必要みたい。
+https://ui.nuxt.com/getting-started/theming
