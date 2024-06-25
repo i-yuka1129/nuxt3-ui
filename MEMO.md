@@ -13,7 +13,11 @@
 ・要素をグリッド上の行と列の中に配置することができる
 https://developer.mozilla.org/ja/docs/Web/CSS/CSS_grid_layout/Basic_concepts_of_grid_layout
 
-## つまづき（未解決）
+## つまづき1（未解決）6/24
 ``` app.config.ts ```内のCSSが反映されない。
 ``` <UButton>Button</UButton> ```は別途設定が必要みたい。
 https://ui.nuxt.com/getting-started/theming
+
+## つまづき1（解決）6/24
+何もせずに解決していた。
+今度エラーでたら、サーバー立ち上げ直してみるといいかも。
